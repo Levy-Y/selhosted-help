@@ -88,7 +88,7 @@ Some info and help, on how to fix certain self-hosted apps, that I was strugglin
           - ./nginxproxymanager/data:/data
           - ./nginxproxymanager/letsencrypt:/etc/letsencrypt
     ```
-    *Note: you should use 2.11.0 of the image, as that works 99% of the time*
+    *Note: you should use the 2.11.0 version of the image, as that works 99% of the time*
 
 - Step 2 restart the container
 
